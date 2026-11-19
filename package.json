@@ -1,0 +1,10 @@
+{
+  "name": "futurebite-careers-portal",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Responsive implementation of the supplied FutureBite Figma design, ready for Netlify.",
+  "scripts": {
+    "check": "node --check app.js && node --check data.js",
+    "dev": "node dev-server.mjs"
+  }
+}
